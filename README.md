@@ -1,5 +1,15 @@
 # Geo Utilities API
 
+
+##
+
+@startuml firstDiagram
+
+Alice -> Bob: Hello
+Bob -> Alice: Hi!
+
+@enduml
+
 ## Install Gdal
 brew install gdal
 
