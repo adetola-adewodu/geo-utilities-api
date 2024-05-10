@@ -3,12 +3,18 @@
 
 ##
 
-@startuml firstDiagram
+<div hidden>
+    
+    @startuml firstDiagram
 
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
+    Alice -> Bob: Hello
+    Bob -> Alice: Hi!
 
-@enduml
+    @enduml
+    
+</div>
+
+![](firstDiagram.svg)
 
 ## Install Gdal
 brew install gdal
