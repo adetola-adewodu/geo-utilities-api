@@ -3,20 +3,32 @@
 
 ##
 
-[alt text](firstDiagram.svg) 
+[alt text](GeoDiagram.svg) 
 
 <div hidden>
     
-    @startuml firstDiagram
+    @startuml GeoDiagram
 
-    Alice -> Bob: Hello
-    Bob -> Alice: Hi!
+    actor Client
+
+    Client -> "Utilities API": GET /evstations
+
+    activate "Utilities API"
+    database DB
+    "Utilities API" -> DB: get_evstation_list()
+    DB -> "Utilities API": stations
+
+    Client -> "Utilities API": GET /evstations/id
+
+    activate "Utilities API"
+    "Utilities API" -> DB: get_evstation_detail(id)
+    DB -> "Utilities API": station
 
     @enduml
     
 </div>
 
-![](firstDiagram.svg)
+![](GeoDiagram.svg)
 
 ## Install Gdal
 brew install gdal
