@@ -1,0 +1,1914 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:3857"
+        }
+    },
+    "properties": {
+        "exceededTransferLimit": true
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238056.42720799,
+                    4971501.96974367
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M49632",
+                "KVA": 152.99,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237893.34415398,
+                    4971557.63862541
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M48853",
+                "KVA": 231.85,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238015.79559385,
+                    4971564.10152404
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "49635",
+                "KVA": 239.66,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238272.05306166,
+                    4971762.83774251
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "28261",
+                "KVA": 282.04,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237944.77375872,
+                    4971589.07185434
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "28271",
+                "KVA": 373.45,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238012.23337015,
+                    4971451.14829729
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35609",
+                "KVA": 162.37,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238118.20952538,
+                    4971737.42630824
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48325",
+                "KVA": 240.92,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238027.03886242,
+                    4971520.91769158
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "49641",
+                "KVA": 177.07,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238115.42653811,
+                    4971589.07185434
+                ]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "BC2307",
+                "KVA": 158.6,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238015.79559385,
+                    4971362.87236666
+                ]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48839",
+                "KVA": 262.43,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238007.33531255,
+                    4971552.79145425
+                ]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "49642",
+                "KVA": 123.28,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237879.65185661,
+                    4971566.8923225
+                ]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M48858",
+                "KVA": 189.7,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237946.77750956,
+                    4971469.36173324
+                ]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48849",
+                "KVA": 272.47,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238212.16317561,
+                    4971506.81688964
+                ]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "46257",
+                "KVA": 237.7,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238088.15326287,
+                    4971501.08844466
+                ]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35604",
+                "KVA": 147.99,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238080.472218,
+                    4971630.19959621
+                ]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M45923",
+                "KVA": 280.32,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237816.19974686,
+                    4971524.14912822
+                ]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "28274",
+                "KVA": 393.16,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237695.75205782,
+                    4971300.44810482
+                ]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "27152",
+                "KVA": 250.48,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237582.09485772,
+                    4971476.99963585
+                ]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "27168",
+                "KVA": 200.34,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237765.99465651,
+                    4971547.94428548
+                ]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35898",
+                "KVA": 291.38,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237745.5118702,
+                    4971395.92066665
+                ]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "51487",
+                "KVA": 300.55,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237762.4324328,
+                    4971385.9327242
+                ]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "51483",
+                "KVA": 252.45,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237820.20724853,
+                    4971328.20849206
+                ]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35618",
+                "KVA": 180.27,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237661.24301568,
+                    4971424.562617
+                ]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "28283",
+                "KVA": 324.74,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237871.63685327,
+                    4971400.32711508
+                ]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35881",
+                "KVA": 239.43,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237732.71012876,
+                    4971270.19084133
+                ]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M35624",
+                "KVA": 220.88,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237636.64140821,
+                    4971396.3613114
+                ]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M28286",
+                "KVA": 284.92,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237882.10088541,
+                    4971371.39147331
+                ]
+            },
+            "properties": {
+                "OBJECTID": 28,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M35886",
+                "KVA": 176.78,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237802.50744949,
+                    4971320.13006436
+                ]
+            },
+            "properties": {
+                "OBJECTID": 29,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M51481",
+                "KVA": 209.41,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237868.40858804,
+                    4971349.94683972
+                ]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35619",
+                "KVA": 147.7,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237744.28735581,
+                    4971582.16828605
+                ]
+            },
+            "properties": {
+                "OBJECTID": 31,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35899",
+                "KVA": 253.89,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237851.59934493,
+                    4971430.58478134
+                ]
+            },
+            "properties": {
+                "OBJECTID": 32,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M35882",
+                "KVA": 169.02,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237739.05533974,
+                    4971421.77185917
+                ]
+            },
+            "properties": {
+                "OBJECTID": 33,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "51484",
+                "KVA": 280.4,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237698.08976713,
+                    4971470.5367948
+                ]
+            },
+            "properties": {
+                "OBJECTID": 34,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "51496",
+                "KVA": 254.38,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237776.45868865,
+                    4971482.58118382
+                ]
+            },
+            "properties": {
+                "OBJECTID": 35,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "28280",
+                "KVA": 156.47,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237748.29485748,
+                    4971217.75493168
+                ]
+            },
+            "properties": {
+                "OBJECTID": 36,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "27140",
+                "KVA": 370.07,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237855.94080507,
+                    4971341.86839407
+                ]
+            },
+            "properties": {
+                "OBJECTID": 37,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35620",
+                "KVA": 144.31,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237900.13464292,
+                    4971721.70944265
+                ]
+            },
+            "properties": {
+                "OBJECTID": 38,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "49663",
+                "KVA": 253.86,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237950.00577479,
+                    4971810.42927689
+                ]
+            },
+            "properties": {
+                "OBJECTID": 39,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "45956",
+                "KVA": 344.23,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237905.81193694,
+                    4971880.93567961
+                ]
+            },
+            "properties": {
+                "OBJECTID": 40,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "45966",
+                "KVA": 248.74,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237801.39425459,
+                    4971756.8153735
+                ]
+            },
+            "properties": {
+                "OBJECTID": 41,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48034",
+                "KVA": 267.31,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237978.05828647,
+                    4971767.68501783
+                ]
+            },
+            "properties": {
+                "OBJECTID": 42,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M45954",
+                "KVA": 229.66,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237959.24529253,
+                    4971869.18457717
+                ]
+            },
+            "properties": {
+                "OBJECTID": 43,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48018",
+                "KVA": 202.89,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237925.40416733,
+                    4971837.01600653
+                ]
+            },
+            "properties": {
+                "OBJECTID": 44,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48027",
+                "KVA": 336.44,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237917.38916399,
+                    4971715.98087175
+                ]
+            },
+            "properties": {
+                "OBJECTID": 45,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M49654",
+                "KVA": 250.54,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237838.686284,
+                    4971838.19111227
+                ]
+            },
+            "properties": {
+                "OBJECTID": 46,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "49669",
+                "KVA": 266.05,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238069.6742274,
+                    4971812.3388186
+                ]
+            },
+            "properties": {
+                "OBJECTID": 47,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48329",
+                "KVA": 230.86,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237994.08829315,
+                    4971878.87923566
+                ]
+            },
+            "properties": {
+                "OBJECTID": 48,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48020",
+                "KVA": 255.35,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237881.32164897,
+                    4971749.91168677
+                ]
+            },
+            "properties": {
+                "OBJECTID": 49,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "49665",
+                "KVA": 171.99,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238081.25145443,
+                    4971807.63840892
+                ]
+            },
+            "properties": {
+                "OBJECTID": 50,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48322",
+                "KVA": 230.17,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237866.07087874,
+                    4971808.37284778
+                ]
+            },
+            "properties": {
+                "OBJECTID": 51,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M49667",
+                "KVA": 259.25,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237876.86886934,
+                    4971779.28911091
+                ]
+            },
+            "properties": {
+                "OBJECTID": 52,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M55616",
+                "KVA": 229.92,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237971.60175601,
+                    4971795.44673182
+                ]
+            },
+            "properties": {
+                "OBJECTID": 53,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "45946",
+                "KVA": 170.58,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237563.17054429,
+                    4971616.83306112
+                ]
+            },
+            "properties": {
+                "OBJECTID": 54,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48043",
+                "KVA": 262.65,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237636.64140821,
+                    4971752.40876439
+                ]
+            },
+            "properties": {
+                "OBJECTID": 55,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35912",
+                "KVA": 198.56,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237772.45118698,
+                    4971747.56149665
+                ]
+            },
+            "properties": {
+                "OBJECTID": 56,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M48032",
+                "KVA": 364.42,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237739.05533974,
+                    4971797.50315822
+                ]
+            },
+            "properties": {
+                "OBJECTID": 57,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48870",
+                "KVA": 158.64,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237811.41300876,
+                    4971661.63305843
+                ]
+            },
+            "properties": {
+                "OBJECTID": 58,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M48866",
+                "KVA": 232.28,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237604.91535333,
+                    4971630.19959621
+                ]
+            },
+            "properties": {
+                "OBJECTID": 59,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M56711",
+                "KVA": 299.25,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237659.57322331,
+                    4971668.83045419
+                ]
+            },
+            "properties": {
+                "OBJECTID": 60,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48040",
+                "KVA": 164.36,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237658.79398688,
+                    4971734.1948011
+                ]
+            },
+            "properties": {
+                "OBJECTID": 61,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35905",
+                "KVA": 265.56,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237675.60322999,
+                    4971691.45087536
+                ]
+            },
+            "properties": {
+                "OBJECTID": 62,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "M35910",
+                "KVA": 297.99,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237646.77148187,
+                    4971669.71176832
+                ]
+            },
+            "properties": {
+                "OBJECTID": 63,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48038",
+                "KVA": 160.89,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237631.52071163,
+                    4971651.20418827
+                ]
+            },
+            "properties": {
+                "OBJECTID": 64,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48041",
+                "KVA": 182.45,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237561.61207141,
+                    4971606.40423875
+                ]
+            },
+            "properties": {
+                "OBJECTID": 65,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "48047",
+                "KVA": 192.96,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8237729.48186353,
+                    4971608.46062537
+                ]
+            },
+            "properties": {
+                "OBJECTID": 66,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "35900",
+                "KVA": 297.9,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8238791.24716672,
+                    4970901.23601525
+                ]
+            },
+            "properties": {
+                "OBJECTID": 67,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "CANAL",
+                "STRUCT_NUMBER": "36223",
+                "KVA": 221.21,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234922.56090318,
+                    4976069.63473521
+                ]
+            },
+            "properties": {
+                "OBJECTID": 68,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "BC1620",
+                "KVA": 17.44,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234680.77496918,
+                    4975990.13411444
+                ]
+            },
+            "properties": {
+                "OBJECTID": 69,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "BC860",
+                "KVA": 117.47,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234614.87383062,
+                    4975959.42147853
+                ]
+            },
+            "properties": {
+                "OBJECTID": 70,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "43913",
+                "KVA": 190.32,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234683.11267848,
+                    4976070.36949443
+                ]
+            },
+            "properties": {
+                "OBJECTID": 71,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "8997",
+                "KVA": 152.79,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234471.38300699,
+                    4975952.95567275
+                ]
+            },
+            "properties": {
+                "OBJECTID": 72,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "9008",
+                "KVA": 172.26,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234565.78193519,
+                    4976048.17979046
+                ]
+            },
+            "properties": {
+                "OBJECTID": 73,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "43927",
+                "KVA": 155.04,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234800.88869974,
+                    4976052.29443375
+                ]
+            },
+            "properties": {
+                "OBJECTID": 74,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "38665",
+                "KVA": 271.83,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234580.36478848,
+                    4975893.73496884
+                ]
+            },
+            "properties": {
+                "OBJECTID": 75,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "M8812",
+                "KVA": 221.37,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234540.17845231,
+                    4975855.82215081
+                ]
+            },
+            "properties": {
+                "OBJECTID": 76,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "BC8282",
+                "KVA": 360.91,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234622.10959753,
+                    4975946.19597127
+                ]
+            },
+            "properties": {
+                "OBJECTID": 77,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "43912",
+                "KVA": 161.56,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234651.83190157,
+                    4976053.02919166
+                ]
+            },
+            "properties": {
+                "OBJECTID": 78,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "8998",
+                "KVA": 176.57,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234650.16210921,
+                    4975942.08137267
+                ]
+            },
+            "properties": {
+                "OBJECTID": 79,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "M43909",
+                "KVA": 141.95,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234699.58796312,
+                    4975971.61835109
+                ]
+            },
+            "properties": {
+                "OBJECTID": 80,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "8798",
+                "KVA": 201.11,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234813.69044118,
+                    4976009.97247125
+                ]
+            },
+            "properties": {
+                "OBJECTID": 81,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "BC3423",
+                "KVA": 263.14,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234467.48682482,
+                    4975831.8695548
+                ]
+            },
+            "properties": {
+                "OBJECTID": 82,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "M8816",
+                "KVA": 303.28,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234401.58568626,
+                    4975752.81170984
+                ]
+            },
+            "properties": {
+                "OBJECTID": 83,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "54349",
+                "KVA": 210.18,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234259.31937703,
+                    4975847.59303145
+                ]
+            },
+            "properties": {
+                "OBJECTID": 84,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "M9014",
+                "KVA": 374.15,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234147.33196929,
+                    4975666.84805047
+                ]
+            },
+            "properties": {
+                "OBJECTID": 85,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "M55863",
+                "KVA": 79.09,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234412.0497184,
+                    4975779.11527126
+                ]
+            },
+            "properties": {
+                "OBJECTID": 86,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "54343",
+                "KVA": 216.61,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234383.44060927,
+                    4975780.73169355
+                ]
+            },
+            "properties": {
+                "OBJECTID": 87,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "54351",
+                "KVA": 161.88,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234221.58206965,
+                    4975695.50251956
+                ]
+            },
+            "properties": {
+                "OBJECTID": 88,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "M56110",
+                "KVA": 227.81,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234192.30504358,
+                    4975691.09413423
+                ]
+            },
+            "properties": {
+                "OBJECTID": 89,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "8823",
+                "KVA": 122.75,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234382.66137283,
+                    4975915.33652396
+                ]
+            },
+            "properties": {
+                "OBJECTID": 90,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "9004",
+                "KVA": 240.47,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234294.60765562,
+                    4975866.54940611
+                ]
+            },
+            "properties": {
+                "OBJECTID": 91,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "9012",
+                "KVA": 187.49,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234227.59332216,
+                    4975721.36508689
+                ]
+            },
+            "properties": {
+                "OBJECTID": 92,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "BC9321",
+                "KVA": 204.71,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234127.18314146,
+                    4975750.31360993
+                ]
+            },
+            "properties": {
+                "OBJECTID": 93,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "BC6187",
+                "KVA": 268.35,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234768.60604741,
+                    4976265.96436301
+                ]
+            },
+            "properties": {
+                "OBJECTID": 94,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "BC127",
+                "KVA": 0,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234540.40109129,
+                    4976219.9676218
+                ]
+            },
+            "properties": {
+                "OBJECTID": 95,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "BC3873",
+                "KVA": 227.57,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234704.37470122,
+                    4976211.8851497
+                ]
+            },
+            "properties": {
+                "OBJECTID": 96,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "M38676",
+                "KVA": 179.54,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234618.7700128,
+                    4976167.21124273
+                ]
+            },
+            "properties": {
+                "OBJECTID": 97,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "9185",
+                "KVA": 91.17,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234390.56505668,
+                    4976160.15748661
+                ]
+            },
+            "properties": {
+                "OBJECTID": 98,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "9368",
+                "KVA": 228.74,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234317.42815123,
+                    4976106.9605733
+                ]
+            },
+            "properties": {
+                "OBJECTID": 99,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "9378",
+                "KVA": 158.03,
+                "UPDATED_DATE": 1666779468000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8234567.34040805,
+                    4976366.33500066
+                ]
+            },
+            "properties": {
+                "OBJECTID": 100,
+                "DIV_NAME": "MANHATTAN",
+                "NETWORK_NAME": "BEEKMAN",
+                "STRUCT_NUMBER": "9537",
+                "KVA": 242.92,
+                "UPDATED_DATE": 1666779468000
+            }
+        }
+    ]
+}
