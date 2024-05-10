@@ -48,7 +48,7 @@ sqlacodegen postgresql://[user]:[password]@[host]:[port]/[databas] > models.py
 python -m uvicorn app.main:app --reload 
 
 
-## Sequence diagram for some endpoints
+## Sequence diagram for evstations endpoints
 
 ![](GeoDiagram.svg)
 <div hidden>
@@ -56,17 +56,16 @@ python -m uvicorn app.main:app --reload
     @startuml GeoDiagram
 
     actor Client
-
-    Client -> "Utilities API": GET /evstations
-
-    activate "Utilities API"
     database DB
+    
+    autonumber
+    
+    Client -> "Utilities API": GET /evstations
     "Utilities API" -> DB: get_evstation_list()
     DB -> "Utilities API": stations
 
+    autonumber
     Client -> "Utilities API": GET /evstations/id
-
-    activate "Utilities API"
     "Utilities API" -> DB: get_evstation_detail(id)
     DB -> "Utilities API": station
 
