@@ -1,10 +1,9 @@
 # Geo Utilities API
 
 
-##
+## Some End points
 
-[alt text](GeoDiagram.svg) 
-
+![](GeoDiagram.svg)
 <div hidden>
     
     @startuml GeoDiagram
@@ -28,7 +27,7 @@
     
 </div>
 
-![](GeoDiagram.svg)
+
 
 ## Install Gdal
 brew install gdal
