@@ -3,6 +3,8 @@
 
 ##
 
+[alt text](firstDiagram.svg) 
+
 <div hidden>
     
     @startuml firstDiagram
