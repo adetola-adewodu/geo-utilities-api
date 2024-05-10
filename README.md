@@ -55,19 +55,21 @@ python -m uvicorn app.main:app --reload
     
     @startuml GeoDiagram
 
-    actor Client
-    database DB
-    
-    autonumber
-    
-    Client -> "Utilities API": GET /evstations
-    "Utilities API" -> DB: get_evstation_list()
-    DB -> "Utilities API": stations
+        actor Client
+        activate "Utilities API"
+        database DB
 
-    autonumber
-    Client -> "Utilities API": GET /evstations/id
-    "Utilities API" -> DB: get_evstation_detail(id)
-    DB -> "Utilities API": station
+        autonumber
+        Client -> "Utilities API": GET /evstations
+        "Utilities API" -> DB: get_evstation_list()
+        DB -> "Utilities API": stations
+        "Utilities API" -> Client: stations
+
+        autonumber
+        Client -> "Utilities API": GET /evstations/id
+        "Utilities API" -> DB: get_evstation_detail(id)
+        DB -> "Utilities API": station
+        "Utilities API" -> Client: station
 
     @enduml
     
