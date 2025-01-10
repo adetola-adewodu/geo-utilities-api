@@ -47,6 +47,13 @@ sqlacodegen postgresql://[user]:[password]@[host]:[port]/[databas] > models.py
 ## To run FastAPI based API
 python -m uvicorn app.main:app --reload 
 
+## To build docker image
+
+docker build -t geo-utilities-api .
+
+# To run application in docker
+
+docker run -d -p 80:80 geo-utilities-api
 
 ## Sequence diagram for evstations endpoints
 
