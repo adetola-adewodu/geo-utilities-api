@@ -4,7 +4,7 @@
 brew install gdal
 
 ## Create and load geojson based tables into Postgres
-ogr2ogr -f PostgreSQL PG:"dbname=database user=user password=password" EVstations.json -nln evstations
+ogr2ogr -f PostgreSQL PG:"dbname=postgres user=postgres password=mypassword" EVstations.json -nln evstations
 
 ## Example PostGIS Queries
 
