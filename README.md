@@ -55,6 +55,14 @@ docker build -t geo-utilities-api .
 
 docker run -d -p 80:80 geo-utilities-api
 
+# Bundle database and app images and run both as containers
+
+docker compose --file docker-compose.yml up --build -d
+
+# Bring containers down
+
+docker compose down
+
 ## Sequence diagram for evstations endpoints
 
 ![](GeoDiagram.svg)

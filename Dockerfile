@@ -13,6 +13,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the application code
 COPY . .
+ENV DB_USERNAME='postgres' \
+    DB_PASSWORD='mypassword' \
+    DB_HOST='localhost' \
+    DB_PORT='5432' \
+    DB_NAME='postgres'
 
 # Expose the port the Flask app will run on
 EXPOSE 80
